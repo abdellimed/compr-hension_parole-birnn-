@@ -1,0 +1,4703 @@
+﻿تونس	B-Destination
+
+
+ميتين	B-Fare
+و	I-Fare
+خمسين	I-Fare
+
+
+بربي	B-Politenesse
+اوقات	B-Hour_Cpt
+تران	B-Train
+وقتاه	B-Dep_Hour_Req
+معناتها	O
+في	B-Destination
+تونس	I-Destination
+من	B-Origin
+صفاقس	I-Origin
+إلى	B-Destination
+تونس	I-Destination
+
+
+من	B-Origin
+صفاقس	I-Origin
+إلى	B-Destination
+تونس	I-Destination
+وقتاه	B-Dep_Hour_Req
+
+
+معناتها	O
+في	B-Dep_hour
+الصباح	I-Dep_hour
+
+
+قداه	B-Price_Req
+
+
+الخمسه_وخمسه	B-Dep_hour
+
+
+آ	O
+فهمتك	O
+معناتها	B-Clarification_Req
+الخمسه_وخمسه	B-Dep_hour
+معناتها	B-Clarification_Req
+
+
+قداه	B-Price_Req
+فلوس	O
+ألي_روتور	B-Ticket_Type
+
+
+كنفور	B-Class
+قداه	B-Price_Req
+
+
+أيه	O
+ألي_روتور	B-Ticket_Type
+بثلاثين	B-Fare
+
+
+بالله	B-Politenesse
+تونس	B-Destination
+
+
+وقتاه	B-Dep_Hour_Req
+ثم	I-Dep_Hour_Req
+تران	B-Train
+إلى	B-Destination
+تونس	I-Destination
+
+
+آكسبراس	B-Train_Type
+ولا	B-Choice
+عادي	B-Train_Type
+
+
+أعطيني	B-Booking_Req
+زوز	B-Ticket_Numbers
+تسكره	B-Ticket
+
+
+قداه	B-Price_Req
+
+
+لحداش_وربع	B-Dep_hour
+وشي	B-Clarification_Req
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+لحداش_وربع	B-Dep_hour
+
+
+ثناش_ألف	B-Fare
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+رزرفسيون	B-Booking_Req
+لحداش	B-Dep_hour
+إلى	B-Destination
+تونس	I-Destination
+
+
+أيه	B-Acceptance
+
+
+برميير	B-Class
+أيه	B-Acceptance
+
+
+تسكره	B-Ticket
+للجم	B-Destination
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+خويا	B-Politenesse
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+في	B-Dep_hour
+الماضي_ساعه_ونص	I-Dep_hour
+مش	B-Clarification_Req
+معبي	I-Clarification_Req
+ما	O
+هو	O
+
+
+أعطيني	B-Booking_Req
+برميير	B-Class
+مال	O
+
+
+ام	O
+
+
+زوز	B-Ticket_Numbers
+
+
+تونس	B-Destination
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+تونس	B-Destination
+خويا	B-Politenesse
+
+
+دومي	B-Ticket_Type
+تونس	B-Destination
+
+
+كارت	O
+كاتر	O
+زوز	O
+سايكونت	O
+زوز	O
+
+
+زوز	O
+سانكت	O
+زوز	O
+
+
+لا	B-Rejection
+معنديش	O
+فلوس	O
+
+
+لحداش	B-Dep_hour
+هو	O
+تران	B-Train
+إلى	B-Destination
+تونس	I-Destination
+
+
+أعطيني	B-Booking_Req
+بربي	B-Politenesse
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+قداه	B-Price_Req
+
+
+تونس	B-Destination
+هذا	O
+تران	B-Train
+تونس	B-Destination
+
+
+ام	O
+
+
+أعطيني	B-Booking_Req
+
+
+نعم	B-Clarification_Req
+
+
+حداش	B-Fare
+و	I-Fare
+تسعميا	I-Fare
+
+
+عادي	B-Train_Type
+
+
+كنفور	B-Class
+بقداه	B-Price_Req
+
+
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+هو	O
+
+
+صفاقس	B-Origin
+سوسه	B-Destination
+
+
+لحداش_وربع	B-Dep_hour
+
+
+ديراكت	B-Train_Type
+نابل	B-Destination
+
+
+تفضل	B-Politenesse
+اي	I-Politenesse
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+تونس	B-Destination
+
+
+امتى	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+تران	B-Train
+صاحبي	B-Politenesse
+
+
+لحداش_وربع	B-Dep_hour
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تونس	B-Destination
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+نعم	B-Clarification_Req
+
+
+آكسبراس	B-Train_Type
+
+
+ثلاثه_غير_درج	B-Dep_hour
+ثم	B-Existence_Req
+آكسبراس	B-Train_Type
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+هوني	O
+نقص	B-Booking_Req
+إلى	B-Destination
+تونس	I-Destination
+تونس	B-Destination
+
+
+بقداه	B-Price_Req
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+دوزييم	B-Class
+كلاس	B-Class_Cpt
+
+
+لحداش_وربع	B-Dep_hour
+هو	O
+
+
+تونس	B-Destination
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+تران	B-Train
+تونس	B-Destination
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+تران	B-Train
+إلى	B-Destination
+سوسه	I-Destination
+
+
+سوسه	B-Destination
+
+
+نعم	B-Clarification_Req
+سوسه	B-Destination
+فيل	O
+ولا	B-Choice
+....	O
+
+
+باهي	B-Acceptance
+
+
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+تو	B-Dep_hour
+
+
+اما	B-Dep_Hour_Req
+هو	I-Dep_Hour_Req
+وقت	I-Dep_Hour_Req
+أ	O
+أقرب	B-Dep_hour
+واحد	B-Train
+
+
+خروج	B-Departure_Cpt
+من	B-Origin
+صفاقس	I-Origin
+ولا	B-Choice
+من	B-Origin
+قابس	I-Origin
+
+
+وصول	B-Departure_Cpt
+من	B-Origin
+قفصه	I-Origin
+برميير	B-Class
+كلاس	B-Class_Cpt
+بربي	B-Politenesse
+
+
+عادي	B-Train_Type
+ولا	B-Choice
+آكسبراس	B-Train_Type
+
+
+قداه	B-Price_Req
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+وصول	B-Arrival_Cpt
+هو	O
+
+
+سوسه	B-Destination
+
+
+صباح_الخير	B-Begin_Greeting
+بالله	B-Politenesse
+وقتاه	B-Dep_Hour_Req
+بير	B-Destination
+بير_بورقبه	B-Destination
+
+
+بير_بورقبه	B-Destination
+
+
+بير_بورقبه	B-Destination
+
+
+-----	O
+تو	B-Dep_hour
+لحداش_وربع	B-Dep_hour
+
+
+بربي	B-Politenesse
+بير_بورقبه	B-Destination
+تران	B-Train
+نهار	B-Day
+لحد	I-Day
+لاي	B-Hour_Cpt
+لوقات	I-Hour_Cpt
+زوز	B-Train
+تران	I-Train
+نهار	B-Day
+لحد	I-Day
+
+
+بالله	B-Politenesse
+تران	B-Train
+تونس	B-Destination
+
+
+لحداش_وربع	B-Dep_hour
+
+
+ثلاثه	B-Ticket_Numbers
+تسكره	B-Ticket
+
+
+ثم	B-Existence_Req
+آكسبراس	B-Train_Type
+لربعه_ونص	B-Dep_hour
+
+
+تونس	B-Destination
+
+
+ميا	B-Fare
+نعطيك	O
+امّا	O
+الفين	B-Fare
+معنديش	O
+
+
+خويا	B-Politenesse
+نقص	B-Booking_Req
+تونس	B-Destination
+
+
+متاع	O
+لحداش_وربع	B-Dep_hour
+
+
+أعطيني	O
+الفين	B-Fare
+
+
+الفين	B-Fare
+
+
+آكسبراس	B-Train_Type
+لعشيه	B-Dep_hour
+تونس	B-Destination
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+لوقات	B-Hour_Cpt
+
+
+---------	O
+
+
+أيه	B-Acceptance
+اللربعه	B-Dep_hour
+أعطيني	O
+الفين	B-Fare
+و	I-Fare
+ميا	I-Fare
+
+
+بير_بورقبه	B-Destination
+
+
+لحداش_وربع	B-Dep_hour
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+زوز	B-Ticket_Numbers
+
+
+شنو	B-Clarification_Req
+بقداه	B-Clarification_Req
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+تونس	B-Destination
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+نقص	B-Booking_Req
+تسكره	B-Ticket
+ألي_روتور	B-Ticket_Type
+تونس	B-Destination
+تران	B-Train
+متاع	O
+ساعتين	B-Dep_hour
+متاع	I-Dep_hour
+الليل	I-Dep_hour
+
+
+أيه	B-Acceptance
+
+
+شنو	B-Clarification_Req
+ألي_روتور	B-Ticket_Type
+
+
+كيفاه	B-Clarification_Req
+تو	B-Dep_hour
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+سوسه	B-Destination
+
+
+فا	O
+أي	O
+فيان	B-Arrival_Cpt
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+دوزييم	B-Class
+كلاس	B-Class_Cpt
+
+
+و	B-Coordination
+ألي_روتور	B-Ticket_Type
+ألي_روتور	B-Ticket_Type
+تونس	B-Destination
+
+
+تونس	B-Destination
+آ	O
+
+
+سوسه	B-Destination
+سوسه	B-Destination
+
+
+تونس	B-Destination
+
+
+تسكره	B-Ticket
+دوزييم	B-Class
+كلاس	B-Class_Cpt
+
+
+تفضل	B-Politenesse
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+تونس	B-Fare
+ألي_روتور	B-Ticket_Type
+لحداش_وربع	B-Dep_hour
+خروج	B-Departure_Cpt
+
+
+دوزييم	B-Class
+تونس	B-Destination
+
+
+جون	O
+
+
+شكرا	B-Politenesse
+
+
+بالله	B-Politenesse
+بير_بورقبه	B-Destination
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+صفاقس	B-Origin
+بير_بورقبه	B-Destination
+
+
+سوسه	B-Destination
+دومي	B-Ticket_Type
+
+
+تونس	B-Destination
+بربي	B-Politenesse
+
+
+نعم	B-Clarification_Req
+
+
+سوسه	B-Destination
+دومي	B-Ticket_Type
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+كيم	O
+تحب	O
+
+
+ألي_روتور	B-Ticket_Type
+
+
+فان	O
+أن	O
+
+
+تونس	B-Destination
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+دوزييم	B-Class
+
+
+تونس	B-Destination
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+دوزييم	B-Class
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+كنفور	B-Class
+
+
+الجم	B-Destination
+
+
+تونس	B-Destination
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+وحده	B-Ticket_Numbers
+كارت	B-Ticket_Type
+
+
+تراه	O
+ألي_روتور	B-Ticket_Type
+تونس	B-Destination
+زوز	B-Ticket_Numbers
+
+
+وحده	B-Ticket_Numbers
+سوسه	B-Destination
+
+
+تونس	B-Destination
+بربي	B-Politenesse
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+
+
+بالله	B-Politenesse
+أعطيني	B-Dep_Hour_Req
+لوقات	I-Dep_Hour_Req
+
+
+زوز	B-Ticket_Numbers
+كنفور	B-Class
+كنفور	B-Class
+زوز	B-Ticket_Numbers
+
+
+أيه	B-Acceptance
+
+
+زوز	B-Ticket_Numbers
+كنفور	B-Class
+
+
+تونس	B-Destination
+
+
+أيه	B-Acceptance
+وحده	B-Ticket_Numbers
+
+
+تونس	B-Destination
+وحده	B-Ticket_Numbers
+وحده	B-Ticket_Numbers
+ألي_روتور	B-Ticket_Type
+
+
+تونس	B-Destination
+بربي	B-Politenesse
+
+
+نعم	B-Clarification_Req
+
+
+تونس	B-Destination
+
+
+بقداه	B-Price_Req
+
+
+تونس	B-Destination
+الفوياج	B-Train
+إلي	O
+بعد	B-Dep_hour
+تو	I-Dep_hour
+شنو	B-Dep_Hour_Req
+
+
+باهي	B-Acceptance
+أعمل	B-Booking_Req
+زوز	B-Ticket_Numbers
+برميير	B-Class
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+زوز	B-Ticket_Numbers
+
+
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+بالله	B-Politenesse
+لحداش	B-Dep_hour
+وخمسه	I-Dep_hour
+
+
+اربعه	B-Ticket_Numbers
+اربعه	B-Ticket_Numbers
+تونس	B-Destination
+
+
+وحده	B-Ticket_Numbers
+برميير	B-Class
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+ألي_روتور	B-Ticket_Type
+
+
+وحده	B-Ticket_Numbers
+ألي_روتور	B-Ticket_Type
+تونس	B-Destination
+برميير	B-Class
+
+
+الجم	B-Destination
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+تونس	B-Destination
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+سوسه	B-Destination
+كنفور	B-Class
+بقداه	B-Price_Req
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+بالله	B-Politenesse
+تران	B-Train
+
+
+زوز	B-Ticket_Numbers
+إلى	B-Destination
+تونس	I-Destination
+
+
+سوسه	B-Destination
+
+
+سوسه	B-Destination
+من	O
+القلعه	B-Destination
+مه	O
+
+
+الجم	B-Destination
+
+
+سوسه	B-Destination
+ربع	B-Ticket_Type
+تسكره	B-Ticket
+
+
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+
+
+و	B-Coordination
+بعد	B-Dep_hour
+
+
+وحده	B-Ticket_Numbers
+إلى	B-Destination
+سوسه	I-Destination
+غدوه	B-Day
+الخمسه_وخمسه	B-Dep_hour
+
+
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+إلى	B-Destination
+تونس	I-Destination
+
+
+متلوي	B-Destination
+
+
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+متاع	O
+المتلوي	B-Destination
+
+
+برميير	B-Class
+كلاس	B-Class_Cpt
+متلوي	B-Destination
+
+
+ثم	B-Existence_Req
+تونس	B-Destination
+تو	B-Dep_hour
+
+
+برميير	B-Class
+ثم	B-Existence_Req
+تسكره	B-Ticket
+
+
+خويا	B-Politenesse
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+تران	B-Train
+تو	B-Dep_hour
+
+
+خويا	B-Politenesse
+لعزيز	I-Politenesse
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+تران	B-Train
+
+
+أعطيني	B-Booking_Req
+تسكره	B-Ticket
+
+
+تسكره	B-Ticket
+برميير	B-Class
+
+
+نابل	B-Destination
+
+
+نرجع	B-Departure_Cpt
+اليوم	B-Day
+في	O
+تران	B-Train
+الماضي_ثلاثه	B-Dep_hour
+غير_درج	I-Dep_hour
+
+
+سوسه	B-Destination
+
+
+لحداش_وربع	B-Dep_hour
+تو	B-Dep_hour
+
+
+أي	O
+للّ	O
+
+
+لربعه_ونص	B-Dep_hour
+تونس	B-Destination
+
+
+تونس	B-Destination
+
+
+بالله	B-Politenesse
+شنو	B-Clarification_Req
+كنفور	B-Class
+هي	O
+ثم	B-Existence_Req
+كنفور	B-Class
+ولا	B-Choice
+ثم	B-Existence_Req
+
+
+ألي	B-Ticket_Type
+سولمون	O
+
+
+ألي	B-Ticket_Type
+
+
+قداه	B-Price_Req
+
+
+تونس	B-Destination
+
+
+أي	O
+للّ	O
+
+
+واحد	B-Ticket_Numbers
+تونس	B-Destination
+
+
+نعم	B-Clarification_Req
+
+
+سوسه	B-Destination
+بالله	B-Politenesse
+
+
+توزر	B-Destination
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+هو	O
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+تران	B-Train
+توزر	B-Destination
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+من	B-Origin
+هوني	I-Origin
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+شكرا	B-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بير_بورقبه	B-Destination
+
+
+اوقات	B-Hour_Cpt
+تران	B-Train
+من	B-Origin
+صفاقس	I-Origin
+إلى	B-Destination
+تونس	I-Destination
+
+
+اوقات	B-Hour_Cpt
+تران	B-Train
+من	B-Origin
+صفاقس	I-Origin
+إلى	B-Destination
+تونس	I-Destination
+
+
+تونس	B-Destination
+ألي_روتور	B-Ticket_Type
+
+
+آكسبراس	B-Train_Type
+امتى	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+السعه	B-Dep_Hour_Req
+كم	I-Dep_Hour_Req
+
+
+ثلاثه	B-Dep_hour
+إلا	I-Dep_hour
+عشره	I-Dep_hour
+
+
+باهي	B-Acceptance
+و	B-Coordination
+التاني	O
+عادي	B-Train_Type
+
+
+باهي	B-Acceptance
+و	B-Coordination
+أمتى	B-Dep_Hour_Req
+يولّي	B-Departure_Cpt
+نهار	B-Dep_hour
+خروج	B-Departure_Cpt
+إلى	B-Destination
+تونس	I-Destination
+قصدي	O
+و	B-Coordination
+آكسبراس	B-Train_Type
+امتى	B-Dep_Hour_Req
+يولّي	B-Departure_Cpt
+يوم	B-Day
+السبت	I-Day
+
+
+السبت	B-Day
+السبت	B-Day
+
+
+لربعه_ونص	B-Dep_hour
+لعشيه	B-Dep_hour
+خروج	B-Departure_Cpt
+من	B-Origin
+غادي	I-Origin
+
+
+خروج	B-Departure_Cpt
+هونيا	B-Origin
+لربعه_ونص	B-Dep_hour
+نفس	O
+الشي	O
+
+
+لربعه_ونص	B-Dep_hour
+هونيا	B-Origin
+و	B-Coordination
+خروج	B-Departure_Cpt
+من	B-Origin
+غادي	I-Origin
+
+
+ثاني	O
+عادي	B-Train_Type
+ال	O
+مش	B-Train_Type
+آكسبراس	I-Train_Type
+كل	B-Dep_hour
+ساعه	I-Dep_hour
+في	O
+رحله	O
+
+
+مش	O
+فرق	O
+كبير	O
+باهي	O
+الفرق	O
+
+
+أعطيني	B-Booking_Req
+زوز	B-Ticket_Numbers
+يا	O
+ألي_روتور	B-Ticket_Type
+
+
+تو	B-Dep_hour
+قداه	B-Dep_Hour_Req
+خروج	I-Dep_Hour_Req
+تو	B-Dep_hour
+بعد	B-Dep_hour
+نص	I-Dep_hour
+ساعه	I-Dep_hour
+ثانيه	I-Dep_hour
+
+
+تسكره	B-Dep_hour
+ونص	I-Dep_hour
+
+
+و	B-Coordination
+هاك	O
+إلي	O
+فيه	O
+رحله	O
+واحده	O
+آكسبراس	B-Train_Type
+نحساب	O
+فيه	O
+اكثر	O
+من	O
+رحله	O
+
+
+ثلاثه	B-Dep_hour
+إلا	I-Dep_hour
+خمسه	I-Dep_hour
+آكسبراس	B-Train_Type
+
+
+و	B-Price_Req
+قداه	I-Price_Req
+بري	O
+ألي_روتور	B-Ticket_Type
+آكسبراس	B-Train_Type
+
+
+أيه	B-Acceptance
+تونس	B-Destination
+
+
+و	B-Coordination
+هاك	O
+قداه	B-Trip_time_Req
+يقعد	I-Trip_time_Req
+يقعملشي	O
+أربعه	B-Trip_Time
+سوايع	I-Trip_Time
+
+
+لا	B-Rejection
+عادي	B-Train_Type
+عادي	B-Train_Type
+
+
+ثلاثه	B-Trip_Time
+ونص	I-Trip_Time
+
+
+نقص	B-Booking_Req
+في	O
+عادي	B-Train_Type
+اول	B-Dep_hour
+تران	B-Train
+
+
+أيه	B-Acceptance
+ألي_روتور	B-Ticket_Type
+زوز	B-Ticket_Numbers
+تسكره	B-Ticket
+
+
+أيه	B-Clarification_Req
+عادي	B-Train_Type
+مش	B-Clarification_Req
+آكسبراس	B-Train_Type
+عادي	B-Train_Type
+
+
+كلاس	B-Class_Cpt
+برميير	B-Class
+كم	B-Price_Req
+كلاس	B-Class_Cpt
+برميير	B-Class
+
+
+و	B-Clarification_Req
+شنو	I-Clarification_Req
+الفرق	O
+يعني	O
+
+
+و	B-Coordination
+آكسبراس	B-Train_Type
+متين	O
+......	O
+زوز	B-Ticket_Numbers
+
+
+أعطيني	B-Booking_Req
+آكسبراس	B-Train_Type
+
+
+آه	B-Clarification_Req
+
+
+هات	B-Booking_Req
+في	B-Dep_hour
+الثلاثه	I-Dep_hour
+إلا	I-Dep_hour
+خمسه	I-Dep_hour
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بربي	B-Politenesse
+قفصه	B-Destination
+وقتاه	B-Dep_Hour_Req
+تران	B-Train
+هنا	O
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+و	B-Coordination
+في	B-Dep_hour
+الليل	I-Dep_hour
+وقتاه	B-Dep_Hour_Req
+
+
+وقتاه	B-َArr_Hour_Req
+وصول	B-Arrival_Cpt
+تقريبا	O
+هذاي	O
+متاع	O
+نص	B-Dep_hour
+الليل	I-Dep_hour
+ونص	I-Dep_hour
+
+
+تونس	B-Destination
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+ثم	B-Existence_Req
+عادي	B-Train_Type
+
+
+دومي	B-Ticket_Type
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تونس	B-Destination
+تران	B-Train
+الماضي_ساعه	B-Dep_hour
+
+
+تران	B-Train
+الماضي_ساعه	B-Dep_hour
+
+
+الماضي_ساعه	B-Dep_hour
+ولا	B-Choice
+الماضي_ساعه	B-Dep_hour
+و	B-Dep_Hour_Req
+قداه	I-Dep_Hour_Req
+هو	O
+
+
+تران	B-Train
+تونس	B-Destination
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+
+
+تونس	B-Destination
+
+
+بير_بورقبه	B-Destination
+
+
+نحب	B-Booking_Req
+زوز	B-Ticket_Numbers
+أحنا	O
+سوسه	B-Destination
+نحب	B-Booking_Req
+
+
+لا	B-Rejection
+غدوه	B-Day
+غدوه	B-Day
+إنشا_الله	B-Politenesse
+
+
+نحب	B-Booking_Req
+زوز	B-Ticket_Numbers
+تسكره	B-Ticket
+
+
+تونس	B-Destination
+
+
+صباح_الخير	B-Begin_Greeting
+متلوي	B-Destination
+قداه	B-Price_Req
+
+
+بالله	B-Politenesse
+باش	B-Clarification_Req
+نسأل	I-Clarification_Req
+وقتاه	B-Dep_Hour_Req
+ثم	I-Dep_Hour_Req
+تران	B-Train
+إلى	B-Destination
+تونس	I-Destination
+
+
+ثم	B-Existence_Req
+لحداش_وربع	B-Dep_hour
+
+
+لا	B-Rejection
+لا	I-Rejection
+مش	B-Day
+ليوم	I-Day
+غدوه	B-Day
+
+
+بالله	B-Politenesse
+نحب	B-Booking_Req
+نقص	I-Booking_Req
+ألي_روتور	B-Ticket_Type
+غدوه	B-Day
+إنشا_الله	B-Politenesse
+هاك	O
+كتورز	B-Dep_hour
+اور	I-Dep_hour
+سانكنت	I-Dep_hour
+سانك	I-Dep_hour
+كتورز	B-Dep_hour
+اور	I-Dep_hour
+سانكنت	I-Dep_hour
+سانك	I-Dep_hour
+خروج	B-Departure_Cpt
+هونيا	B-Origin
+آكسبراس	B-Train_Type
+كتورز	B-Dep_hour
+اور	I-Dep_hour
+سانكنت	I-Dep_hour
+سانك	I-Dep_hour
+
+
+ثلاثه_غير_درج	B-Dep_hour
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+
+
+السته	B-Arr_hour
+غادي	B-Destination
+و	B-Coordination
+في	B-Dep_hour
+الصباح	I-Dep_hour
+ثم	B-Existence_Req
+آكسبراس	B-Train_Type
+خروج	B-Departure_Cpt
+السبعه	B-Dep_hour
+من	B-Origin
+غادي	I-Origin
+وصول	B-Arrival_Cpt
+
+
+من	B-Origin
+غادي	I-Origin
+
+
+ثمنيه	B-Dep_hour
+وصول	B-Arrival_Cpt
+لحداش	B-Arr_hour
+هاك	O
+لول	B-Dep_hour
+آكسبراس	B-Train_Type
+لول	B-Dep_hour
+ثم	B-Existence_Req
+واحد	O
+قبلو	B-Dep_hour
+ولا	B-Choice
+
+
+و	B-Coordination
+قبلو	B-Dep_hour
+مش	B-Clarification_Req
+آكسبراس	B-Train_Type
+
+
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+لهنا	B-Destination
+العشره	B-Arr_hour
+
+
+تسعه	B-Arr_hour
+ونص	I-Arr_hour
+
+
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+إلى	B-Destination
+تونس	I-Destination
+من	B-Origin
+صفاقس	I-Origin
+الصباح	B-Dep_hour
+
+
+الخمسه_وخمسه	B-Dep_hour
+عادي	B-Train_Type
+
+
+السبعه_غير_درجين	B-Dep_hour
+ما	B-Clarification_Req
+هواشي	I-Clarification_Req
+
+
+آكسبراس	B-Train_Type
+باهي	O
+تو	B-Train_Type
+الماضي_ساعه	B-Dep_hour
+خروج	B-Departure_Cpt
+هكا	O
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+بارك_الله_فيك	B-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+نحب	B-Booking_Req
+باش	I-Booking_Req
+نقص	I-Booking_Req
+زوز	B-Ticket_Numbers
+تسكره	B-Ticket
+آكسبراس	B-Train_Type
+تونس	B-Destination
+
+
+لربعه_ونص	B-Dep_hour
+
+
+أيه	B-Acceptance
+
+
+أربع	B-Fare
+و	I-Fare
+ثلاثين	I-Fare
+و	I-Fare
+ميتين	I-Fare
+
+
+انتوم	O
+بالله	B-Politenesse
+تخلص	O
+بالشاك	O
+
+
+نحب	B-Booking_Req
+نقص	I-Booking_Req
+يعيشك	B-Politenesse
+ألي_روتور	B-Ticket_Type
+آكسبراس	B-Train_Type
+
+
+غدوه	B-Day
+إنشا_الله	B-Politenesse
+نهار	B-Day
+الجمعه	I-Day
+
+
+نهار	B-Day
+الجمعه	I-Day
+هاك	O
+كاتورز	B-Dep_hour
+أور	I-Dep_hour
+سانكنت	I-Dep_hour
+سانك	I-Dep_hour
+
+
+أيه	B-Acceptance
+
+
+كاتورز	B-Dep_hour
+أور	I-Dep_hour
+سانكنت	I-Dep_hour
+سانك	I-Dep_hour
+
+
+باهي	O
+و	B-Coordination
+وصول	B-Arrival_Cpt
+السته	B-Arr_hour
+
+
+وصول	B-Arrival_Cpt
+السته	B-Arr_hour
+
+
+باهي	B-Acceptance
+
+
+باهي	O
+و	B-Coordination
+روتور	B-Ticket_Type
+نهارت	B-Day
+بعد	I-Day
+غدوه	I-Day
+
+
+هذا	O
+ألي	B-Ticket_Type
+
+
+ثمنيه	B-Dep_hour
+متاع	I-Dep_hour
+الصباح	I-Dep_hour
+هاك	O
+
+
+لو	B-Day
+سانك	I-Day
+صاحيت	O
+
+
+ألي	B-Ticket_Type
+دونك	O
+لو	B-Day
+كاتر	I-Day
+و	B-Coordination
+روتور	B-Ticket_Type
+لو	B-Day
+سانك	I-Day
+
+
+ثمنيه	B-Dep_hour
+من	B-Origin
+تونس	I-Origin
+وصول	B-Arrival_Cpt
+لحداش	B-Arr_hour
+هك	O
+
+
+تفضل	B-Politenesse
+
+
+اوقات	B-Hour_Cpt
+خروج	B-Departure_Cpt
+إلى	B-Destination
+تونس	I-Destination
+
+
+تونس	B-Destination
+
+
+أيه	B-Acceptance
+
+
+تو	B-Dep_hour
+تران	B-Train
+ثم	B-Existence_Req
+
+
+تونس	B-Destination
+
+
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+قداه	B-Dep_Hour_Req
+قلت	O
+
+
+الماضي_ساعه	B-Dep_hour
+
+
+اول	B-Arr_hour
+كار	O
+وصول	B-Departure_Cpt
+اول	B-Arr_hour
+تران	B-Train
+وصول	B-Arrival_Cpt
+من	B-Origin
+تونس	I-Origin
+وقتاه	B-Dep_Hour_Req
+الصباح	B-Dep_hour
+
+
+لا	B-Rejection
+باش	B-Departure_Cpt
+نجي	I-Departure_Cpt
+نروح	I-Departure_Cpt
+إلى	B-Destination
+سوسه	I-Destination
+و	B-Coordination
+نجي	B-Arrival_Cpt
+الصباح	B-Arr_hour
+
+
+اول	B-Dep_hour
+تران	B-Train
+وصول	B-Arrival_Cpt
+من	B-Origin
+سوسه	I-Origin
+لهنا	B-Destination
+
+
+وصول	B-Arrival_Cpt
+إلى	B-Destination
+صفاقس	I-Destination
+
+
+وصول	B-Arrival_Cpt
+لهنا	B-Destination
+ثمنيه	B-Arr_hour
+ولا	B-Choice
+العشره	B-Arr_hour
+
+
+اول	B-Dep_hour
+تران	B-Train
+هاك	O
+
+
+آ	O
+فهمتك	O
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+نحب	B-Booking_Req
+2	B-Ticket_Numbers
+تسكره	I-Ticket_Numbers
+الجم	B-Destination
+من_فضلك	B-Politenesse
+
+
+الجم	B-Destination
+
+
+الساعه	B-Dep_Hour_Req
+كم	I-Dep_Hour_Req
+خروج	B-Departure_Cpt
+خروج	B-Departure_Cpt
+
+
+واحد	B-Dep_hour
+ونص	I-Dep_hour
+
+
+مفيش	B-Existence_Req
+واحد	O
+قبله	B-Dep_hour
+يعني	B-Clarification_Req
+2	B-Ticket_Numbers
+تسكره	I-Ticket_Numbers
+من_فضلك	B-Politenesse
+
+
+قداه	B-Dep_Hour_Req
+الساعه	I-Dep_Hour_Req
+للجم	B-Destination
+
+
+بالله	B-Politenesse
+يفتح	O
+عليك	O
+تران	B-Train
+إلي	O
+خروج	B-Departure_Cpt
+لحداش	B-Dep_hour
+و	I-Dep_hour
+أربعه	I-Dep_hour
+دراج	I-Dep_hour
+و	B-Coordination
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+
+
+و	O
+وقتاه	B-Dep_Hour_Req
+
+
+من	B-Origin
+تونس	I-Origin
+لحداش	B-Dep_hour
+و	I-Dep_hour
+أربعه	I-Dep_hour
+دراج	I-Dep_hour
+خروج	B-Departure_Cpt
+من	B-Origin
+تونس	I-Origin
+
+
+ساعتين	B-Dep_hour
+و	I-Dep_hour
+أربعه	I-Dep_hour
+آكسبراس	B-Train_Type
+ولا	B-Choice
+عادي	B-Train_Type
+
+
+آكسبراس	B-Train_Type
+يفتح	B-Politenesse
+عليك	I-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+تو	B-Dep_hour
+
+
+اسمع	O
+و	O
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+متاع	O
+تران	B-Train
+
+
+صار	O
+الماضي_ساعه_ونص	B-Dep_hour
+كهو	O
+
+
+ثم	B-Existence_Req
+كان	O
+الماضي_ساعه_ونص	B-Dep_hour
+متاع	O
+لحداش_وربع	B-Dep_hour
+خروج	B-Departure_Cpt
+يخي	O
+ولا	B-Choice
+ثم	B-Existence_Req
+
+
+أعطيني	B-Booking_Req
+خويا	B-Politenesse
+أعطيني	B-Booking_Req
+تسكره	B-Ticket
+من	B-Origin
+قابس	I-Origin
+غادي	B-Origin
+وصول	B-Arrival_Cpt
+من	B-Origin
+قابس	I-Origin
+
+
+تراه	O
+أعطيني	B-Booking_Req
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+تراه	O
+
+
+نعم	B-Clarification_Req
+
+
+الله_يبارك	B-Politenesse
+
+
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+
+
+آ	O
+قداه	B-Price_Req
+قصّان	I-Price_Req
+السند	B-Destination
+اسمع	O
+قداه	B-Price_Req
+للسند	B-Destination
+
+
+وحده	B-Ticket_Numbers
+إلى	B-Destination
+تونس	I-Destination
+يا	B-Politenesse
+معلم	I-Politenesse
+
+
+وقتاه	B-Dep_Hour_Req
+اقرب	B-Dep_hour
+تران	B-Train
+إلى	B-Destination
+سوسه	I-Destination
+
+
+باهي	B-Acceptance
+وحده	B-Ticket_Numbers
+
+
+صفا	O
+آ	O
+تونس	B-Destination
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+ثم	B-Existence_Req
+تران	B-Train
+عادي	B-Train_Type
+تو	B-Dep_hour
+
+
+نعم	B-Clarification_Req
+ثم	B-Existence_Req
+تران	B-Train
+عادي	B-Train_Type
+
+
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+تران	B-Train
+
+
+نعم	B-Clarification_Req
+
+
+مع	B-Dep_hour
+السته	I-Dep_hour
+و	I-Dep_hour
+اربعه	I-Dep_hour
+هذاي	O
+
+
+زوز	B-Ticket_Numbers
+
+
+زوز	B-Ticket_Numbers
+
+
+ليوم	B-Day
+السته	B-Dep_hour
+ونص	I-Dep_hour
+
+
+سته	B-Dep_hour
+و	I-Dep_hour
+اربعه	I-Dep_hour
+
+
+برميير	B-Class
+
+
+تونس	B-Destination
+
+
+قداه	B-Price_Req
+
+
+ألي_روتور	B-Ticket_Type
+تونس	B-Destination
+نصف_النهار	B-Dep_hour
+و	I-Dep_hour
+سبعه	I-Dep_hour
+
+
+تونس	B-Destination
+نصف_النهار	B-Dep_hour
+و	I-Dep_hour
+سبعه	I-Dep_hour
+
+
+ثم	B-Existence_Req
+نصف_النهار	B-Dep_hour
+سبعه	I-Dep_hour
+كدخلت	O
+عل	O
+انترنيت	O
+
+
+قتلك	O
+كدخلت	O
+علانترنات	O
+ثم	B-Existence_Req
+واحد	O
+و	O
+نصف_النهار	B-Dep_hour
+و	I-Dep_hour
+سبعه	I-Dep_hour
+تنحى	B-Clarification_Req
+
+
+آ	O
+مال	O
+لنترنيت	O
+ممكن	O
+ماهياش	O
+ميز	O
+أ	O
+جور	O
+ميسالش	B-Acceptance
+نقص	B-Booking_Req
+
+
+أيه	B-Acceptance
+
+
+أي	B-Politenesse
+للّ	I-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تسكره	B-Ticket
+قربمباليه	B-Destination
+
+
+أيه	B-Clarification_Req
+
+
+وقتاه	B-Dep_Hour_Req
+وصول	B-Arrival_Cpt
+هو	O
+تران	B-Train
+
+
+الماضي_ساعه_ونص	B-Arr_hour
+
+
+خمسه	B-Fare
+لاف	I-Fare
+
+
+بقداه	B-Price_Req
+هو	O
+تسكره	B-Ticket
+
+
+سلام	B-Begin_Greeting
+
+
+ثم	B-Existence_Req
+تران	B-Train
+تو	B-Dep_hour
+تونس	B-Destination
+
+
+ثم	B-Existence_Req
+قبل	B-Dep_hour
+حمام_لنف	B-Destination
+
+
+تونس	B-Destination
+تونس	B-Destination
+
+
+بالله	B-Politenesse
+تران	B-Train
+تونس	B-Destination
+و	B-Coordination
+وقتاه	B-Dep_Hour_Req
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+تسكره	B-Ticket
+خويا	B-Politenesse
+
+
+تونس	B-Destination
+تونس	B-Destination
+
+
+بقداه	B-Price_Req
+
+
+آ	O
+حداش_ألف	B-Fare
+
+
+تفضل	B-Politenesse
+أي	I-Politenesse
+
+
+تران	B-Train
+نهار	B-Day
+السبت	I-Day
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+
+
+الصباح	B-Dep_hour
+
+
+آ	O
+السبعه_غير_درجين	B-Dep_hour
+الصباح	B-Dep_hour
+آكسبراس	B-Train_Type
+
+
+و	B-Coordination
+الخمسه	B-Dep_hour
+
+
+على	B-Destination
+تونس	I-Destination
+
+
+متلوي	B-Destination
+
+
+أيه	B-Acceptance
+برميير	B-Class
+نقص	B-Booking_Req
+برميير	B-Class
+
+
+تران	B-Train
+وقتاه	B-Dep_Hour_Req
+
+
+تونس	B-Destination
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+تونس	B-Destination
+ألي_روتور	B-Ticket_Type
+الثلاثه	B-Dep_hour
+غير_درج	I-Dep_hour
+
+
+توزر	B-Destination
+
+
+زوز	B-Ticket_Numbers
+كنفور	B-Class
+
+
+بالله	B-Politenesse
+تسكره	B-Ticket
+آكسبراس	B-Train_Type
+لربعه_ونص	B-Dep_hour
+ابونمون	B-Ticket_Type
+
+
+بربي	B-Politenesse
+تران	B-Train
+الصباح	B-Dep_hour
+اول	B-Dep_hour
+تران	B-Train
+
+
+وقتاه	B-Dep_Hour_Req
+وصول	B-Arrival_Cpt
+بالله	B-Politenesse
+بير_بورقبه	B-Destination
+
+
+الخمسه_وخمسه	B-Arr_hour
+
+
+بالله	B-Politenesse
+شنو	B-Dep_Hour_Req
+لوقات	I-Dep_Hour_Req
+تران	B-Train
+الصباح	B-Dep_hour
+من	B-Dep_hour
+الخمسه	I-Dep_hour
+
+
+و	B-Dep_Hour_Req
+بعد	I-Dep_Hour_Req
+
+
+آكسبراس	B-Train_Type
+سبعه	B-Dep_hour
+غير_درجين	I-Dep_hour
+
+
+نجم	B-Booking_Req
+نقص	I-Booking_Req
+تسكره	B-Ticket
+تو	B-Dep_hour
+
+
+قداه	B-Price_Req
+
+
+السبعه_غير_درجين	B-Dep_hour
+
+
+أيه	B-Acceptance
+مشي	B-Ticket_Type
+برك	O
+
+
+سبعطاش	B-Fare
+و	I-Fare
+ميا	I-Fare
+
+
+لعشيه	B-Dep_hour
+وقتاه	B-Dep_Hour_Req
+هو	O
+تران	B-Train
+
+
+سلام	B-Begin_Greeting
+
+
+تران	B-Train
+خروج	B-Departure_Cpt
+تران	B-Train
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تسكره	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+متاع	O
+لربعه_ونص	B-Dep_hour
+
+
+لربعه_ونص	B-Dep_hour
+ماهو	B-Clarification_Req
+
+
+بربي	B-Politenesse
+في	B-Dep_hour
+الليل	I-Dep_hour
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+
+
+الماضي_ساعه	B-Dep_hour
+و	B-Coordination
+ساعتين	B-Dep_hour
+متاع	O
+الليل	B-Dep_hour
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تران	B-Train
+وصول	B-Arrival_Cpt
+وصول	B-Arrival_Cpt
+للجم	B-Destination
+
+
+الماضي_ثلاثه	B-Dep_hour
+غير_درج	I-Dep_hour
+خروج	B-Departure_Cpt
+هونيا	B-Origin
+ثم	B-Existence_Req
+بعد	I-Existence_Req
+
+
+وصول	B-Arrival_Cpt
+في	B-Destination
+الجم	I-Destination
+بارك_الله_فيك	B-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+اول	B-Dep_hour
+تران	B-Train
+خروج	B-Departure_Cpt
+الصباح	B-Dep_hour
+
+
+إلى	B-Destination
+سوسه	I-Destination
+القلعه	B-Destination
+
+
+الخمسه_وخمسه	B-Dep_hour
+لول	B-Dep_hour
+
+
+في	B-Departure_Cpt
+اتجاه	I-Departure_Cpt
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+
+
+ثلاثه_غير_درج	B-Dep_hour
+آكسبراس	B-Train_Type
+
+
+بعد	B-Dep_Hour_Req
+
+
+أعطيني	B-Booking_Req
+تسكره	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+
+
+لربعه_ونص	B-Dep_hour
+
+
+أي	B-Politenesse
+تفضل	I-Politenesse
+
+
+سلام	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+يفضلك	B-Politenesse
+تران	B-Train
+إلى	B-Destination
+تونس	I-Destination
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+
+
+ثلاثه_غير_درج	B-Dep_hour
+و	B-Coordination
+بعد	B-Dep_Hour_Req
+
+
+لربعه_ونص	B-Dep_hour
+آكسبراس	B-Train_Type
+
+
+حتى	O
+تو	B-Dep_hour
+آكسبراس	B-Train_Type
+أيه	O
+ثلاثه_غير_درج	B-Dep_hour
+بون	O
+متاع	O
+لربعه_ونص	B-Dep_hour
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+غادي	B-Destination
+
+
+فوالا	O
+دابور	O
+باش	B-Booking_Req
+ناخذ	I-Booking_Req
+متاع	O
+لربعه_ونص	B-Dep_hour
+
+
+
+
+آ	O
+وي	B-Acceptance
+داكور	B-Acceptance
+اكونوميك	B-Class
+أي	B-Politenesse
+تفضل	I-Politenesse
+
+
+نركب	O
+فيها	O
+وقت	B-Hour_Cpt
+نحب	O
+هكّا	O
+
+
+ماهو	B-Clarification_Req
+ماش	B-Clarification_Req
+فالابل	I-Clarification_Req
+بور	O
+اؤن	O
+باريود	O
+
+
+أكاي	B-Acceptance
+مرسي	B-Politenesse
+
+
+اسمع	O
+بالله	B-Politenesse
+نجم	B-Booking_Req
+ناخذ	I-Booking_Req
+تسكره	B-Ticket
+دومي	B-Ticket_Type
+ألي_روتور	B-Ticket_Type
+
+
+ماي	O
+متاع	O
+الجمعه	B-Day
+الجايه	I-Day
+منعتيش	O
+دات	O
+
+
+نع	O
+يلزم	O
+دات	O
+
+
+لازم	O
+تران	B-Train
+بالوقت	B-Hour_Cpt
+وقت	B-Hour_Cpt
+إلى	B-Departure_Cpt
+فيه	O
+و	O
+كهو	O
+
+
+نجم	B-Booking_Req
+ناخذ	I-Booking_Req
+تو	B-Dep_hour
+بعد	B-Booking_Req
+أعمل	I-Booking_Req
+كونفيرمسيون	B-Booking_Req
+
+
+آ	O
+ألي	B-Rejection
+دونك	O
+
+
+نقص	B-Clarification_Req
+ألي_روتور	B-Ticket_Type
+معناها	B-Clarification_Req
+جيست	O
+ألي	B-Ticket_Type
+تي	O
+كونفرمسيون	B-Booking_Req
+ألي	B-Ticket_Type
+وبعد	O
+روتور	B-Ticket_Type
+
+
+مرسي	B-Politenesse
+أوكاي	O
+
+
+سلام	B-Begin_Greeting
+
+
+آكسبراس	B-Train_Type
+سوسه	B-Destination
+
+
+سوسه	B-Destination
+
+
+كيفاه	B-Clarification_Req
+
+
+آكسبراس	B-Train_Type
+
+
+وصول	B-Arrival_Cpt
+في	B-Destination
+قلعه_الصغيره	I-Destination
+
+
+نعم	B-Clarification_Req
+
+
+نقص	B-Booking_Req
+أيه	B-Acceptance
+
+
+خاتر	O
+في	O
+بالي	O
+وصول	B-Arrival_Cpt
+في	B-Destination
+سوسه	I-Destination
+آكسبراس	B-Train_Type
+معادش	O
+
+
+بالله	B-Politenesse
+تران	B-Train
+تونس	B-Destination
+تعدى	B-Departure_Cpt
+
+
+ثلاثه_غير_درج	B-Dep_hour
+
+
+بالله	B-Politenesse
+تران	B-Train
+تونس	B-Destination
+تعدى	B-Departure_Cpt
+
+
+ثلاثه_غير_درج	B-Dep_hour
+
+
+اسمع	O
+
+
+نهار	B-Day
+لثنين	I-Day
+شنو	B-Clarification_Req
+لاي	B-Train
+تران	I-Train
+إلي	O
+عندك	O
+الماضي_ساعه	B-Dep_hour
+
+
+ثلاثه_غير_درج	B-Dep_hour
+و	B-Coordination
+....	O
+الماضي_ساعه_ونص	B-Dep_hour
+عادي	B-Train_Type
+هكا	O
+
+
+عادي	B-Train_Type
+
+
+باهي	B-Acceptance
+أعطيني	B-Booking_Req
+
+
+معناها	B-Clarification_Req
+يلزمني	O
+نرجع	O
+غدوه	B-Day
+
+
+أعطيني	B-Booking_Req
+وحده	B-Ticket_Numbers
+نص	B-Ticket_Type
+تسكره	I-Ticket_Type
+الجم	B-Destination
+
+
+.......	O
+
+
+قلعه_الصغيره	B-Destination
+
+
+قلعه_الصغيره	B-Destination
+
+
+سلام	B-Begin_Greeting
+
+
+أيه	O
+نجم	B-Booking_Req
+ناخذ	I-Booking_Req
+
+
+وصول	B-Arrival_Cpt
+وقتاه	B-Arr_Hour_Req
+مع	O
+
+
+خمسه	B-Dep_hour
+ونص	I-Dep_hour
+إنشا_الله	B-Politenesse
+
+
+شكرا	B-Politenesse
+
+
+بقداه	B-Price_Req
+نقص	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+
+
+تونس	B-Destination
+
+
+آ	O
+تونس	B-Destination
+ثلاثه_غير_درج	B-Dep_hour
+
+
+هذا	O
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+
+
+بالله	B-Politenesse
+سامحني	B-Politenesse
+ساقيه_الزيت	B-Origin
+الزيت	I-Origin
+غدوه	B-Day
+الصباح	B-Dep_hour
+كيفاه	B-Clarification_Req
+
+
+نجم	B-Booking_Req
+نقص	I-Booking_Req
+غادي	B-Origin
+
+
+لا	B-Rejection
+لا	I-Rejection
+غادي	B-Origin
+نقص	B-Booking_Req
+ولا	B-Choice
+نقص	B-Booking_Req
+
+
+نركب	B-Departure_Cpt
+منو	B-Origin
+نجم	B-Clarification_Req
+نركب	B-Departure_Cpt
+منو	B-Origin
+
+
+بقداه	B-Price_Req
+البقعه	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+
+
+اه	B-Clarification_Req
+
+
+نقص	B-Booking_Req
+في	O
+تران	B-Train
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+آكسبراس	B-Train_Type
+خروج	B-Departure_Cpt
+تو	B-Dep_hour
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+وقتاه	B-Dep_Hour_Req
+
+
+بالله	B-Politenesse
+أعطيني	O
+ورقه	O
+ورقه	O
+متاع	O
+هاك	O
+لوقات	B-Hour_Cpt
+
+
+تران	B-Train
+خروج	B-Departure_Cpt
+صباح	B-Dep_hour
+بكري	I-Dep_hour
+وقتاه	B-Dep_Hour_Req
+تونس	B-Destination
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+الصباح	B-Dep_hour
+
+
+لا	B-Rejection
+غدوه	B-Day
+الصباح	B-Dep_hour
+
+
+اول	B-Dep_hour
+تران	B-Train
+و	B-Coordination
+بعد	B-Dep_hour
+
+
+باهي	O
+يعطيك_الصحه	B-Politenesse
+
+
+قلي	O
+آن	O
+كنت	O
+باش	O
+نسافر	O
+ليوم	B-Day
+غدوه	B-Day
+بالطياره	O
+بدلت	O
+وخرت	O
+الفوياج	O
+متاعي	O
+
+
+و	B-Coordination
+ناخذ	O
+هذا	O
+آسكو	B-Clarification_Req
+هاذا	O
+يضيع	O
+منعرفش	O
+كومون	B-Clarification_Req
+ما	I-Clarification_Req
+سو	I-Clarification_Req
+باس	I-Clarification_Req
+
+
+معناتها	B-Clarification_Req
+ماذا	O
+بيّ	O
+منسافرش	O
+بيه	O
+ليوم	B-Day
+نسافر	O
+نهار	B-Day
+واحد_آخر	O
+آسكو	B-Clarification_Req
+فو	O
+رونبورساي	O
+ولا	B-Choice
+كاسكون	B-Clarification_Req
+فاي	I-Clarification_Req
+منعرفش	O
+آن	O
+
+
+سلام	B-Begin_Greeting
+
+
+آخر	B-Dep_hour
+تران	B-Train
+خروج	B-Departure_Cpt
+
+
+متاع	O
+لعشيه	B-Dep_hour
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+آكسبراس	B-Train_Type
+تونس	B-Destination
+
+
+بقداه	B-Price_Req
+هو	O
+
+
+برميير	B-Class
+ولا	B-Choice
+دوزييم	B-Class
+
+
+سبعطاش	B-Fare
+
+
+قداه	B-Dep_Hour_Req
+مازال	I-Dep_Hour_Req
+وقت	I-Dep_Hour_Req
+
+
+نابل	B-Destination
+صاحبي	B-Politenesse
+
+
+نابل	B-Destination
+
+
+بير_بورقبه	B-Destination
+
+
+ثم	B-Existence_Req
+تونس	B-Destination
+
+
+بربي	B-Politenesse
+تران	B-Train
+متاع	O
+لربعه_ونص	B-Dep_hour
+كيم	B-Clarification_Req
+هذا	I-Clarification_Req
+ولا	O
+
+
+هاك	O
+عادي	B-Train_Type
+
+
+باهي	B-Acceptance
+مال	O
+ناخذ	B-Booking_Req
+هذا	O
+
+
+أيه	B-Acceptance
+
+
+تفضل	B-Politenesse
+
+
+بير_بورقبه	B-Destination
+
+
+بير_بورقبه	B-Destination
+
+
+كم	B-Price_Req
+
+
+آ	O
+تفضل	B-Politenesse
+
+
+متاع	O
+الثلاثه	B-Dep_hour
+و	I-Dep_hour
+درج	I-Dep_hour
+هذا	O
+
+
+عادي	B-Train_Type
+
+
+و	B-Coordination
+عادي	B-Train_Type
+وقتاه	B-Dep_Hour_Req
+
+
+آكسبراس	B-Train_Type
+كارت	B-Ticket_Type
+معاق	I-Ticket_Type
+
+
+آكسبراس	B-Train_Type
+كارت	B-Ticket_Type
+معاق	I-Ticket_Type
+
+
+القلعه	B-Destination
+
+
+فيدالتاي	B-Ticket_Type
+أيه	B-Acceptance
+
+
+بالله	B-Politenesse
+ثم	B-Existence_Req
+تسكره	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+
+
+آكسبراس	B-Train_Type
+هو	O
+هذا	O
+
+
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+إنشا_الله	B-Politenesse
+
+
+بقداه	B-Price_Req
+تسكره	B-Ticket
+
+
+تونس	B-Destination
+بقداه	B-Price_Req
+
+
+مسمعتكش	B-Clarification_Req
+
+
+سوسه	B-Destination
+ثم	B-Existence_Req
+سوسه	B-Destination
+
+
+و	B-Coordination
+ألي	O
+تحكي	O
+عليه	O
+انت	O
+متاع	O
+قلعه_الصغيره	B-Destination
+
+
+متاع	O
+لربعه_ونص	B-Dep_hour
+تونس	B-Destination
+
+
+ماهو	B-Clarification_Req
+برميير	B-Class
+هذا	O
+
+
+لربعه_ونص	B-Dep_hour
+ماهو	B-Clarification_Req
+
+
+بالله	B-Politenesse
+نحب	B-Clarification_Req
+نسأل	I-Clarification_Req
+غدوه	B-Day
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+
+
+نحب	B-Clarification_Req
+ناخذ	I-Clarification_Req
+فكره	I-Clarification_Req
+غدوه	B-Day
+لوقات	B-Hour_Cpt
+تران	B-Train
+وقتاه	B-Dep_Hour_Req
+تسكره	O
+خلّ	O
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+ونص	B-Dep_hour
+آكسبراس	B-Train_Type
+ثم	B-Existence_Req
+
+
+بالله	B-Politenesse
+تونس	B-Destination
+بالله	B-Politenesse
+
+
+برميير	B-Class
+ولا	B-Choice
+دوزييم	B-Class
+إلي	O
+هو	O
+
+
+أيه	B-Acceptance
+لربعه_ونص	B-Dep_hour
+
+
+وقتاه	B-Dep_Hour_Req
+آكسبراس	B-Train_Type
+
+
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+آكسبراس	B-Train_Type
+
+
+نعم	B-Clarification_Req
+
+
+ثم	B-Existence_Req
+سوسه	B-Destination
+
+
+وقتاه	B-Dep_Hour_Req
+القلعه	B-Destination
+
+
+بقداه	B-Price_Req
+الركوب	O
+قداه	B-Price_Req
+
+
+آكسبراس	B-Train_Type
+قداه	B-Price_Req
+بري	I-Price_Req
+آكسبراس	B-Train_Type
+بقداه	B-Price_Req
+
+
+أيه	B-Clarification_Req
+
+
+و	B-Coordination
+تران	B-Clarification_Req
+
+
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+و	B-Coordination
+الثلاثه	B-Dep_hour
+
+
+آكسبراس	B-Train_Type
+قداه	B-Trip_time_Req
+يقعد	I-Trip_time_Req
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+إلى	B-Destination
+تونس	I-Destination
+متاع	O
+الثلاثه	B-Dep_hour
+
+
+و	B-Coordination
+متاع	O
+الماضي_ساعه_ونص	B-Dep_hour
+وقتاه	B-Dep_Hour_Req
+وصول	B-Arrival_Cpt
+
+
+معناتها	B-Clarification_Req
+حداش_ألف	B-Fare
+كنفور	B-Class
+
+
+وحده	B-Ticket_Numbers
+تونس	B-Destination
+تو	B-Dep_hour
+
+
+تران	B-Train
+سوسه	B-Fare
+بالله	B-Politenesse
+
+
+سوسه	B-Destination
+
+
+تفضل	B-Politenesse
+اي	I-Politenesse
+
+
+خويا	B-Politenesse
+بالله	B-Politenesse
+اوقات	B-Hour_Cpt
+تران	B-Train
+من	B-Day
+غدوه	I-Day
+غدوه	B-Day
+إلى	B-Destination
+تونس	I-Destination
+من	B-Dep_hour
+العشره	I-Dep_hour
+حتاشي	O
+ساعتين	B-Dep_hour
+هكك	O
+
+
+ثم	B-Existence_Req
+لحداش_وربع	B-Dep_hour
+و	B-Coordination
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+آكسبراس	B-Train_Type
+ولا	B-Choice
+عادي	B-Train_Type
+
+
+عادي	B-Train_Type
+آ	O
+عاودلي	O
+سامحني	B-Politenesse
+خويا	B-Politenesse
+حداش	B-Dep_hour
+ونص	I-Dep_hour
+
+
+لحداش	B-Dep_hour
+ونص	I-Dep_hour
+
+
+و	B-Coordination
+الماضي_ساعه_ونص	B-Dep_hour
+
+
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+يا	B-Politenesse
+معلم	I-Politenesse
+
+
+معناتها	B-Clarification_Req
+ثم	B-Existence_Req
+تو	B-Dep_hour
+
+
+نعم	B-Clarification_Req
+
+
+اثناش	B-Fare
+دينار	I-Fare
+
+
+ثم	B-Existence_Req
+واحد	O
+خروج	B-Departure_Cpt
+من	B-Origin
+تونس	I-Origin
+العشره	B-Dep_hour
+و	I-Dep_hour
+اربعه	I-Dep_hour
+هو	O
+
+
+من	B-Origin
+تونس	I-Origin
+خروج	B-Departure_Cpt
+العشره	B-Dep_hour
+و	I-Dep_hour
+اربعه	I-Dep_hour
+
+
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+إلى	B-Destination
+تونس	I-Destination
+هذا	O
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+هذا	O
+
+
+العشره	B-Dep_hour
+ونص	I-Dep_hour
+وصول	B-Arrival_Cpt
+هذا	O
+
+
+العشره	B-Arr_hour
+
+
+الله_يعينك	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+آكسبراس	B-Train_Type
+تونس	B-Destination
+وقتاه	B-Dep_Hour_Req
+
+
+هاك	O
+الوحيد	O
+
+
+يا	B-Politenesse
+عزيز	I-Politenesse
+هاك	O
+الوحيد	O
+ي	O
+
+
+وو	O
+نجم	B-Booking_Req
+نقص	I-Booking_Req
+تو	B-Dep_hour
+ولا	B-Choice
+امبعد	B-Dep_hour
+
+
+
+
+قتلك	O
+انجم	B-Booking_Req
+نقص	I-Booking_Req
+
+
+اسمعني	O
+نقص	B-Booking_Req
+تو	B-Dep_hour
+انجم	B-Booking_Req
+نقص	I-Booking_Req
+
+
+انجم	B-Booking_Req
+نقص	I-Booking_Req
+تو	B-Dep_hour
+
+
+و	B-Coordination
+كارت	B-Ticket_Type
+مش	O
+معايا	O
+ميسالش	B-Clarification_Req
+
+
+أيه	B-Acceptance
+
+
+نجيبها	O
+لابد	O
+نجيب	O
+كارت	B-Ticket_Type
+
+
+باهي	B-Acceptance
+يرحم_بوك	B-Politenesse
+
+
+بقداه	B-Price_Req
+آكسبراس	B-Train_Type
+آآ	O
+الواحد	B-Ticket_Numbers
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+حمام_لنف	B-Destination
+بربي	B-Politenesse
+
+
+الله_يعينك	B-Politenesse
+
+
+سوسه	B-Destination
+كنفور	B-Class
+ولا	B-Choice
+برميير	B-Class
+ولا	B-Choice
+
+
+نعم	B-Clarification_Req
+
+
+سوسه	B-Destination
+سوسه	B-Destination
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+تونس	B-Destination
+غدوه	B-Day
+لحداش	B-Dep_hour
+ثم	B-Existence_Req
+
+
+اسمع	O
+نحب	B-Booking_Req
+وحده	B-Ticket_Numbers
+برميير	B-Class
+وو	O
+أعمل	B-Booking_Req
+الرنوفاللومان	O
+
+
+اه	B-Clarification_Req
+
+
+أيه	B-Acceptance
+
+
+و	B-Coordination
+أعمل	B-Booking_Req
+رونوفاللومان	O
+متاع	O
+
+
+كارت	O
+
+
+آآ	O
+برميير	B-Class
+
+
+لحداش	B-Dep_hour
+و	B-Coordination
+قداه	B-Dep_Hour_Req
+هوا	O
+
+
+لحداش_ودرجين	B-Dep_hour
+
+
+تفضل	B-Politenesse
+أي	I-Politenesse
+
+
+نعم	B-Clarification_Req
+
+
+والله	B-Politenesse
+صعيب	O
+
+
+تونس	B-Destination
+تسكره	B-Ticket
+أنديكاباي	B-Ticket_Type
+
+
+إي	B-Acceptance
+لحداش	B-Dep_hour
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+صفاقس	B-Origin
+تونس	B-Destination
+لحداش_وربع	B-Dep_hour
+
+
+لا	B-Rejection
+كنفور	B-Class
+قداه	B-Price_Req
+
+
+أعطيني	B-Booking_Req
+كنفور	B-Class
+
+
+كنفور	B-Class
+هي	B-Clarification_Req
+كلاس	B-Class_Cpt
+أن	B-Class
+
+
+تسكره	B-Ticket
+
+
+تونس	B-Destination
+
+
+شنو	B-Clarification_Req
+تاورقه	O
+سبعطاشن	B-Fare
+ميه	I-Fare
+
+
+آه	B-Clarification_Req
+
+
+أيه	B-Acceptance
+
+
+عادي	B-Class
+أيه	B-Acceptance
+
+
+ما_عنديش	O
+
+
+إسمعني	O
+
+
+بالله	B-Politenesse
+تكيه	B-Ticket
+غدوه	B-Day
+تران	B-Train
+متاع	O
+نصف_النهار	B-Dep_hour
+بعد	B-Dep_hour
+نصف_النهار	I-Dep_hour
+
+
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+الماضي_ساعه_وأربعه	B-Dep_hour
+
+
+إي	B-Acceptance
+أوكاي	B-Acceptance
+مرسي	B-Politenesse
+غدوه	B-Day
+
+
+تونس	B-Destination
+أيه	B-Acceptance
+
+
+لا	B-Rejection
+عادي	B-Class
+عادي	B-Class
+
+
+عادي	B-Class
+
+
+ثم	B-Existence_Req
+تران	B-Train
+تر	O
+
+
+تو	B-Dep_hour
+ثم	B-Existence_Req
+تران	B-Train
+وقتا	B-Dep_Hour_Req
+
+
+وقتاه	B-Dep_Hour_Req
+لحداش_ودرجين	B-Dep_hour
+
+
+تسكره	B-Ticket
+عادي	B-Class
+بقداه	B-Price_Req
+
+
+تسكره	B-Ticket
+كنفور	B-Class
+
+
+أيه	B-Acceptance
+
+
+بالله	B-Politenesse
+تران	B-Train
+من	B-Origin
+تونس	I-Origin
+إلى	B-Destination
+صفاقس	I-Destination
+وقتاه	B-Dep_Hour_Req
+يرجع	B-Departure_Cpt
+الصباح	B-Dep_hour
+أوّل	O
+تران	B-Train
+
+
+سته	B-Arr_hour
+إلى	B-Train
+لا	I-Train
+بعد	B-Dep_hour
+
+
+لحداش	B-Arr_hour
+وخمسه	I-Arr_hour
+باهي	B-Acceptance
+
+
+آ	O
+ثم	B-Existence_Req
+ألي_روتور	B-Ticket_Type
+آ	O
+بورسنتاج	O
+ولا	B-Choice
+كيف_كيف	O
+
+
+نعم	B-Clarification_Req
+ردكسيون	O
+بقداه	B-Price_Req
+
+
+ولا	B-Choice
+مسمع	O
+آ	O
+برميير	B-Class
+برميير	B-Class
+
+
+ثلتاش	B-Fare
+
+
+ستاش_وتسعميه	B-Fare
+
+
+هات	B-Booking_Req
+ألي_روتور	B-Ticket_Type
+بقداه	B-Price_Req
+قتلي	O
+
+
+نعم	B-Clarification_Req
+
+
+أيه	B-Acceptance
+تو	B-Dep_hour
+
+
+تونس	B-Destination
+
+
+معنديش	O
+
+
+وحده	B-Ticket_Numbers
+إلى	B-Destination
+تونس	I-Destination
+عشره	B-Ticket_Type
+سنين	I-Ticket_Type
+
+
+اه	B-Clarification_Req
+
+
+يمكن	O
+قدقد	O
+
+
+اه	B-Clarification_Req
+
+
+آن	O
+قتلك	O
+آن	O
+
+
+تفضل	B-Politenesse
+
+
+تفضل	B-Politenesse
+ولدي	I-Politenesse
+
+
+تونس	B-Destination
+برميير	B-Class
+
+
+أيه	B-Acceptance
+
+
+أوفات	O
+
+
+شنو	B-Clarification_Req
+
+
+أيه	B-Acceptance
+نحي	O
+نحي	O
+ريقل	O
+أمورك	O
+
+
+تكيه	B-Ticket
+إلى	B-Destination
+سوسه	I-Destination
+
+
+يخي	B-Politenesse
+تران	B-Train
+وقتاه	B-Dep_Hour_Req
+
+
+زوز	B-Ticket_Numbers
+تونس	B-Destination
+
+
+أيه	B-Acceptance
+زوز	B-Ticket_Numbers
+
+
+بقداه	B-Price_Req
+تونس	B-Destination
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+بربي	B-Politenesse
+تونس	B-Destination
+يعيشك	B-Politenesse
+
+
+بالله	B-Politenesse
+ال	O
+أأ	O
+كنفور	B-Class
+
+
+بربي	B-Politenesse
+ما	B-Existence_Req
+ثم	I-Existence_Req
+آكسبراس	B-Train_Type
+يا	B-Politenesse
+خي	I-Politenesse
+تر	O
+ما	B-Existence_Req
+ثم	I-Existence_Req
+آكسبراس	B-Train_Type
+
+
+تونس	B-Destination
+تونس	B-Destination
+
+
+ثناش	B-Fare
+وخمسميه	I-Fare
+
+
+بوفيشه	B-Destination
+بالله	B-Politenesse
+
+
+اه	B-Clarification_Req
+
+
+النفيضه	B-Destination
+
+
+مش	B-Clarification_Req
+بعيده	I-Clarification_Req
+على	B-Destination
+بوفيشه	I-Destination
+آه	B-Clarification_Req
+
+
+مش	B-Clarification_Req
+بعيده	I-Clarification_Req
+آه	B-Clarification_Req
+
+
+تونس	B-Destination
+الماضي_ساعه	B-Dep_hour
+و	B-Coordination
+منعرفش	O
+قداه	B-Price_Req
+
+
+آ	O
+برميير	B-Class
+اه	O
+
+
+مش	B-Clarification_Req
+ثناشن	B-Fare
+ألف	I-Fare
+
+
+أيه	B-Acceptance
+
+
+أيه	B-Acceptance
+ليوما	B-Day
+ليوما	B-Day
+
+
+شي	O
+ما	O
+عاد	O
+عندي	O
+حتى	O
+فرنك	O
+
+
+سوسه	B-Destination
+برميير	B-Class
+إنشا_الله	B-Politenesse
+
+
+أي	B-Acceptance
+تونس	B-Destination
+
+
+آه	B-Clarification_Req
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+آ	O
+تران	B-Train
+ماضي	B-Dep_hour
+ساعتين_ودرجين	I-Dep_hour
+
+
+متاع	B-Dep_hour
+الليل	I-Dep_hour
+
+
+تونس	B-Destination
+بالله	B-Politenesse
+
+
+أيه	B-Acceptance
+
+
+دوزييم	B-Class
+دوزييم	B-Class
+
+
+اه	B-Clarification_Req
+
+
+حتى	O
+دوزييم	B-Class
+ميسالش	O
+
+
+حتى	O
+برميير	B-Class
+ميسالش	O
+
+
+برميير	B-Class
+تونس	B-Destination
+
+
+يا	B-Politenesse
+مسيو	I-Politenesse
+وين	O
+يحضرو	O
+كارت	B-Ticket_Type
+
+
+آ	O
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تران	B-Train
+متا	O
+متاع	O
+تونس	B-Destination
+
+
+وشنوا	O
+آخر	O
+
+
+ثلاثه_غير_درج	B-Dep_hour
+آكسبراس	B-Train_Type
+
+
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+آكسبراس	B-Train_Type
+
+
+بقداه	B-Price_Req
+
+
+نقص	B-Booking_Req
+تو	B-Dep_hour
+عادي	B-Class
+
+
+ثلاثه_غير_درج	B-Dep_hour
+
+
+عادي	B-Class
+بالله	B-Politenesse
+بقداه	B-Price_Req
+
+
+إي	O
+إي	O
+نحكيلك	O
+كيما	O
+الخارج	B-Departure_Cpt
+تو	B-Dep_hour
+
+
+أحسنت	B-Politenesse
+يرحم_بوك	B-Politenesse
+
+
+ثم	B-Existence_Req
+غدوه	B-Day
+الخمسه_وخمسه	B-Dep_hour
+
+
+أعطيني	B-Booking_Req
+زوز	B-Ticket_Numbers
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+أيه	B-Acceptance
+و	B-Coordination
+كارت	B-Ticket_Type
+عندي	O
+
+
+تونس	B-Destination
+
+
+تو	B-Dep_hour
+الماضي_ساعه_وربع	B-Dep_hour
+
+
+بقداه	B-Price_Req
+تران	B-Train
+
+
+بقداه	B-Price_Req
+قلت	O
+
+
+أي	O
+أهم	B-Fare
+خمستاش	I-Fare
+
+
+بالله	B-Politenesse
+عندي	O
+ألي_روتور	B-Ticket_Type
+دوزييم	B-Class
+كلاس	B-Class_Cpt
+من	B-Origin
+تونس	I-Origin
+نحب	B-Booking_Req
+أعمل	I-Booking_Req
+
+
+دبلاسمن	O
+في	B-Ticket_Type
+روتور	I-Ticket_Type
+قداه	B-Price_Req
+نزيد	O
+
+
+أيه	B-Acceptance
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+بالله	B-Politenesse
+نحب	B-Booking_Req
+أعمل	I-Booking_Req
+رزرفسيون	I-Booking_Req
+عندي	O
+ثلاثه	B-Ticket_Numbers
+تكيه	B-Ticket
+و	B-Coordination
+التروا	B-Ticket_Numbers
+تكيه	B-Ticket
+كل	O
+وحده	O
+وقتها	O
+
+
+تسكره	B-Ticket
+برميير	I-Ticket
+أون	B-Dep_hour
+هور	I-Dep_hour
+كانز	I-Dep_hour
+زوز	I-Dep_hour
+ماتان	I-Dep_hour
+لو	B-Day
+لاندي	I-Day
+و	B-Coordination
+التكيه	B-Ticket
+الثانيه	I-Ticket
+غدوه	B-Day
+لحد	B-Day
+سانك	B-Dep_hour
+هور	I-Dep_hour
+فان	I-Dep_hour
+سانك	I-Dep_hour
+زوز	B-Day
+ماتان	I-Day
+و	B-Coordination
+
+
+اه	B-Clarification_Req
+
+
+نبداو	O
+متاع	O
+غدوه	B-Day
+لول	B-Ticket
+تيكيه	I-Ticket
+سانك	B-Dep_hour
+هور	I-Dep_hour
+فان	I-Dep_hour
+سانك	I-Dep_hour
+
+
+خمسه	B-Dep_hour
+وخمسه	I-Dep_hour
+
+
+والثانيه	B-Ticket
+
+
+أنزور	B-Dep_hour
+ديس	I-Dep_hour
+
+
+الوسطاني	O
+محمد	O
+بوشحيمه	O
+
+
+تران	B-Train
+شسمو	O
+حداش	B-Dep_hour
+ودرجين	I-Dep_hour
+
+
+غدوه	B-Day
+
+
+هاذايا	O
+التروازييم	B-Ticket
+
+
+تسعميه	O
+وسته	O
+وثمانين	O
+
+
+تران	B-Ticket
+الماضي_ساعه	B-Dep_hour
+لو	B-Day
+لندي	I-Day
+
+
+أيه	B-Acceptance
+لو	B-Day
+سات	I-Day
+
+
+أيه	B-Acceptance
+نهار	B-Day
+لحد	I-Day
+في	B-Dep_hour
+الليل	I-Dep_hour
+
+
+واضح	O
+يرحم_والديك	B-Politenesse
+
+
+سامحني	B-Politenesse
+
+
+تران	B-Train
+ساعتين_ودرجين	B-Dep_hour
+برميير	B-Class
+متاع	O
+الليل	B-Dep_hour
+
+
+بقداه	B-Price_Req
+سامحني	B-Politenesse
+
+
+أيه	B-Acceptance
+
+
+أيه	B-Acceptance
+
+
+يعني	B-Clarification_Req
+آن	B-Booking_Req
+نقص	I-Booking_Req
+
+
+لا	B-Rejection
+
+
+بالله	B-Politenesse
+
+
+آكسبراس	B-Train_Type
+تونس	B-Destination
+
+
+وحده	B-Ticket_Numbers
+ألي	B-Ticket_Type
+
+
+ما	B-Clarification_Req
+نعرفش	I-Clarification_Req
+آن	O
+بقداه	B-Price_Req
+برميير	B-Class
+كلاس	B-Class_Cpt
+
+
+ثلاثه_غير_درج	B-Dep_hour
+
+
+أيه	B-Acceptance
+مالا	I-Acceptance
+
+
+صباح_الخير	B-Begin_Greeting
+
+
+آ	O
+كارت	B-Ticket_Type
+أوفتلي	O
+سايي	O
+
+
+دز	B-Day
+ويت	I-Day
+أكتوبر	I-Day
+لا	B-Rejection
+لا	I-Rejection
+
+
+ديبو	O
+
+
+مازلنا	O
+نستحقوها	O
+آن	O
+آخر	O
+دلي	O
+ليوما	B-Day
+ليوما	B-Day
+لو	B-Day
+سانك	I-Day
+
+
+باهي	B-Acceptance
+أعطيني	B-Booking_Req
+تونس	B-Destination
+
+
+باهي	B-Acceptance
+
+
+أيه	B-Acceptance
+
+
+باهي	B-Acceptance
+حقه	O
+ديبو	B-Day
+سبتمبر	I-Day
+يبدلوها	O
+مش	B-Day
+ديبو	I-Day
+أكتوبر	I-Day
+
+
+كانز	B-Day
+يبدلوها	O
+
+
+ثم	B-Existence_Req
+كنفور	B-Train
+غدوه	B-Day
+
+
+باهي	B-Acceptance
+ووا	O
+غدوه	B-Day
+الخمسه	B-Dep_hour
+متاع	I-Dep_hour
+الصباح	I-Dep_hour
+
+
+ثم	B-Existence_Req
+الخمسه	B-Dep_hour
+إلي	O
+بعد	B-Dep_hour
+الخمسه	I-Dep_hour
+
+
+آكسبراس	B-Train_Type
+هاذايا	B-Clarification_Req
+
+
+من	B-Origin
+قفصه	I-Origin
+
+
+بالرسمي	O
+
+
+وصول	B-Arrival_Cpt
+إلى	B-Destination
+تونس	I-Destination
+ثلاثه	B-Arr_hour
+الساعتين_ونص	B-Arr_hour
+
+
+باهي	B-Acceptance
+أعطيني	B-Booking_Req
+متاع	O
+الخمسه	B-Dep_hour
+متاع	I-Dep_hour
+الصباح	I-Dep_hour
+
+
+وصول	B-Arrival_Cpt
+التسعه	B-Arr_hour
+غير_درجين	I-Arr_hour
+
+
+الخمسه	B-Dep_hour
+
+
+أيه	B-Acceptance
+
+
+الخمسه	B-Dep_hour
+الخمسه	B-Dep_hour
+ودرج	I-Dep_hour
+هوا	B-Clarification_Req
+
+
+هذا	B-Clarification_Req
+الخمسه	B-Dep_hour
+متاع	I-Dep_hour
+الصباح	I-Dep_hour
+الخمسه	B-Dep_hour
+بالضبط	I-Dep_hour
+ولا	B-Choice
+الخمسه	B-Dep_hour
+ودرج	I-Dep_hour
+
+
+الخمسه_وخمسه	B-Dep_hour
+أيه	B-Acceptance
+
+
+تونس	B-Destination
+
+
+أيه	B-Acceptance
+غدوه	B-Day
+غدوه	B-Day
+في	B-Dep_hour
+الخمسه	I-Dep_hour
+متاع	I-Dep_hour
+الصباح	I-Dep_hour
+
+
+آكسبراس	B-Train_Type
+ولا	B-Choice
+عادي	B-Train_Type
+هاذا	B-Clarification_Req
+
+
+نعم	B-Clarification_Req
+
+
+بربي	B-Politenesse
+سامحني	B-Politenesse
+هادي	O
+كلاس	B-Class_Cpt
+ءو	B-Class
+شمعناها	B-Clarification_Req
+
+
+أيه	O
+كلاس	B-Class_Cpt
+قداه	B-Clarification_Req
+يعني	B-Clarification_Req
+
+
+A	O
+معناها	B-Clarification_Req
+مش	O
+كلاس	B-Class_Cpt
+أا	O
+
+
+خاتر	O
+بابا	O
+قلي	O
+كلاس	B-Class_Cpt
+برميير	B-Class
+ولا	B-Choice
+شنو	B-Clarification_Req
+
+
+باهي	B-Acceptance
+مرسي	B-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+كارت	B-Ticket_Type
+اتديون	I-Ticket_Type
+
+
+كارت	B-Ticket_Type
+أيه	B-Acceptance
+داخل	O
+بعضي	O
+واحد	O
+
+
+نقص	B-Booking_Req
+زوز	B-Ticket_Numbers
+إلى	B-Destination
+تونس	I-Destination
+
+
+زوز	B-Ticket_Numbers
+إلى	B-Destination
+تونس	I-Destination
+غدوه	B-Day
+متاع	B-Dep_hour
+الخمسه	I-Dep_hour
+متاع	I-Dep_hour
+الصباح	I-Dep_hour
+الخمسه_وخمسه	B-Dep_hour
+
+
+كارت	B-Ticket_Type
+
+
+نعم	B-Clarification_Req
+
+
+أيه	B-Acceptance
+أنسكربسيون	O
+متاع	O
+آ	O
+2008	B-Day
+2009	I-Day
+
+
+أحنا	O
+جماعة	O
+الماستار	O
+مازالت	O
+
+
+سوسه	B-Destination
+
+
+سبعه	B-Fare
+لاف	I-Fare
+وثلاث	I-Fare
+ميه	I-Fare
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+آ	O
+غدوه	B-Day
+الماضي_ساعه	B-Dep_hour
+ومنعرفش	B-Clarification_Req
+قداه	I-Clarification_Req
+
+
+وأربعه	B-Dep_hour
+أعطيني	B-Booking_Req
+برميير	B-Class
+كلاس	B-Class_Cpt
+بقداه	B-Price_Req
+بربي	B-Politenesse
+برميير	B-Class
+كلاس	B-Class_Cpt
+كارت	B-Ticket_Type
+
+
+غدوه	B-Day
+إنشا_الله	B-Politenesse
+
+
+سوسه	B-Destination
+كارت	B-Ticket_Type
+
+
+بلحق	B-Clarification_Req
+
+
+بالله	B-Politenesse
+سامحني	B-Politenesse
+استنا	O
+ثم	B-Existence_Req
+الماضي_ساعه	B-Dep_hour
+تو	I-Dep_hour
+
+
+أيه	B-Acceptance
+ولخرين	O
+
+
+إلى	B-Train
+آخر	I-Train
+إلي	O
+بعد	B-Dep_hour
+هاذايا	I-Dep_hour
+
+
+آكسبراس	B-Train_Type
+هاذايا	B-Train
+قلعه	B-Destination
+الصغيره	I-Destination
+وقتاه	B-Dep_Hour_Req
+
+
+الماضي_ساعه_وأربعه	B-Dep_hour
+
+
+هاذا	B-Train
+تران	I-Train
+آكسبراس	B-Train_Type
+نلقا	B-Existence_Req
+فيه	I-Existence_Req
+تسكره	B-Ticket
+
+
+أيه	B-Acceptance
+ثلاثه_غير_درج	B-Dep_hour
+
+
+85	O
+
+
+بلاهي	B-Politenesse
+تران	B-Train
+إلي	O
+خروج	B-Departure_Cpt
+تو	B-Dep_hour
+من	B-Origin
+تونس	I-Origin
+القصير	O
+هاكا	O
+إلي	O
+بوترفين	B-Train_Type
+هذاكا	O
+
+
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+إلى	B-Destination
+صفاقس	I-Destination
+
+
+ساعتين_وربع	B-Arr_hour
+إنشا_الله	B-Politenesse
+بارك_الله_فيك	B-Politenesse
+
+
+بالله	B-Politenesse
+نحب	B-Booking_Req
+أعمل	I-Booking_Req
+كارت	B-Ticket_Type
+
+
+عشره	B-Fare
+لاف	I-Fare
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تونس	B-Destination
+ثم	B-Existence_Req
+موخر	B-Dep_hour
+شويه	I-Dep_hour
+
+
+وقتاه	B-Dep_Hour_Req
+
+
+و	B-Coordination
+لعشيه	B-Dep_hour
+
+
+تران	B-Train
+واحد	I-Train
+ثلاثه_غير_درج	B-Dep_hour
+
+
+آكسبراس	B-Train_Type
+هاك	O
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+
+
+هاك	O
+هوا	B-Train
+
+
+سلام	B-Begin_Greeting
+
+
+تسكره	B-Ticket
+و	B-Coordination
+نص	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+
+
+وقتاه	B-Dep_Hour_Req
+خروج	B-Departure_Cpt
+تران	B-Train
+
+
+الماضي_ساعه_وأربعه	B-Dep_hour
+
+
+وقتاه	B-Arr_Hour_Req
+تران	B-Train
+إللي	O
+وصول	B-Departure_Cpt
+من	B-Origin
+تونس	I-Origin
+
+
+كان	B-Clarification_Req
+الماضي_ساعه_وأربعه	B-Dep_hour
+ثم	B-Existence_Req
+
+
+يا	B-Politenesse
+خويا	I-Politenesse
+تران	B-Train
+قابس	B-Destination
+وقتاه	B-Dep_Hour_Req
+
+
+تران	B-Train
+قابس	B-Destination
+
+
+في	B-Dep_hour
+النهار	I-Dep_hour
+ما	B-Existence_Req
+ثم	I-Existence_Req
+
+
+بالله	B-Politenesse
+أعطيني	B-Booking_Req
+ورقه	B-Hour_Cpt
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تران	B-Train
+في	B-Dep_hour
+الليل	I-Dep_hour
+تونس	B-Destination
+
+
+الماضي_ساعه_وربع	B-Arr_hour
+وصول	B-Arrival_Cpt
+من	B-Origin
+قفصه	I-Origin
+هاذا	O
+
+
+مليان	O
+إلى	B-Choice
+لا	I-Choice
+
+
+إلي	O
+نجم	O
+انتم	O
+بالتسجيل	O
+تعرفو	O
+
+
+تباهي	B-Acceptance
+نقص	B-Booking_Req
+معاهم	O
+آن	O
+آن	O
+الخامس	O
+ميسالش	B-Acceptance
+
+
+نقص	B-Booking_Req
+ديراكت	B-Train_Type
+ماطر	B-Destination
+
+
+إنشا_الله	B-Politenesse
+أيه	B-Acceptance
+
+
+و	B-Coordination
+متاع	B-Dep_hour
+السته	I-Dep_hour
+غير_درج	I-Dep_hour
+متاع	B-Destination
+ماطر	I-Destination
+موجود	B-Existence_Req
+
+
+لا	B-Rejection
+لا	I-Rejection
+جيت	O
+اليوم	B-Day
+آنا	O
+لهنا	O
+
+
+ماهر	O
+اسمع	O
+لتديونات	O
+برشا	O
+
+
+عمناول	O
+عام	B-Day
+كامل	O
+نركب	O
+فيه	O
+آن	O
+
+
+أيه	B-Acceptance
+
+
+يرحم_والد	B-Politenesse
+
+
+قداه	B-Price_Req
+
+
+سلام	B-Begin_Greeting
+
+
+أربعه	B-Ticket_Numbers
+الجم	B-Origin
+صفاقس	B-Destination
+آ	O
+صفاقس	B-Origin
+الجم	B-Destination
+
+
+الماضي_ساعه_وأربعه	B-Arr_hour
+وصول	B-Arrival_Cpt
+تران	B-Train
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+يا	B-Politenesse
+مسيو	I-Politenesse
+بالله	B-Politenesse
+باش	B-Booking_Req
+أعمل	I-Booking_Req
+رزرفسيون	I-Booking_Req
+غدوه	B-Day
+ممكن	O
+
+
+آآ	O
+غدوه	B-Day
+تران	B-Train
+الماضي_ساعه	B-Dep_hour
+متاع	I-Dep_hour
+الليل	I-Dep_hour
+
+
+أيه	B-Acceptance
+أيه	B-Acceptance
+
+
+معناها	B-Clarification_Req
+متاع	B-Day
+نهار	I-Day
+الثنين	I-Day
+
+
+نهارت	B-Day
+لثنين	I-Day
+نهار	B-Dep_hour
+
+
+تونس	B-Destination
+
+
+برميير	B-Class
+برميير	B-Class
+
+
+نعم	B-Clarification_Req
+
+
+ليلي	B-Rejection
+آن	O
+أيه	O
+
+
+نعم	B-Clarification_Req
+
+
+اه	O
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+اشنوما	B-Dep_Hour_Req
+لوقات	I-Dep_Hour_Req
+تران	B-Train
+غدوه	B-Day
+الصباح	B-Dep_hour
+
+
+لحداش_ودرجين	B-Dep_hour
+امفماش	B-Existence_Req
+هاك	O
+السبعه	B-Dep_hour
+وفا	O
+الخمسه	B-Dep_hour
+امبعد	B-Dep_hour
+لحداش	I-Dep_hour
+
+
+الخمسه	B-Dep_hour
+معناها	B-Clarification_Req
+وقتاه	B-Dep_Hour_Req
+وصول	B-Arrival_Cpt
+
+
+باهي	B-Acceptance
+بارك_الله_فيك	B-Politenesse
+
+
+بالله	B-Politenesse
+سامحني	B-Politenesse
+
+
+بالله	B-Politenesse
+عندك	O
+فكره	O
+تران	B-Train
+إلى	B-Destination
+قابس	I-Destination
+أببار	B-Day
+رمضان	I-Day
+شنو	B-Dep_Hour_Req
+لوقت	I-Dep_Hour_Req
+متاعو	O
+
+
+هذاي	O
+لخروج	B-Departure_Cpt
+منهوني	B-Origin
+
+
+ربي_يعينك	B-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+باش_نقلقك	O
+بشويه	O
+سؤالات	O
+
+
+باهي	O
+تران	B-Train
+وقتاه	B-Dep_Hour_Req
+
+
+تو	B-Dep_hour
+لا	B-Rejection
+تو	B-Dep_hour
+لا	B-Rejection
+آن	O
+بعد	B-Dep_hour
+الماضي_ثلاثه	I-Dep_hour
+معناها	B-Clarification_Req
+ثم	B-Existence_Req
+الماضي_ساعه	B-Dep_hour
+و	B-Coordination
+ساعتين	B-Dep_hour
+متاع	I-Dep_hour
+الليل	I-Dep_hour
+
+
+الماضي_ساعه	B-Dep_hour
+و	B-Coordination
+ساعتين	B-Dep_hour
+متع	I-Dep_hour
+الليل	I-Dep_hour
+تونس	B-Destination
+راهو	O
+نحكي	O
+
+
+اكتبهم	O
+لا	O
+في	O
+ورقه	O
+
+
+باله	B-Politenesse
+نحب	O
+نبدل	O
+كارت	B-Ticket_Type
+و	B-Coordination
+نقص	B-Booking_Req
+تسكره	B-Ticket
+إلى	B-Destination
+تونس	I-Destination
+
+
+نعم	B-Clarification_Req
+
+
+تو	B-Dep_hour
+تو	B-Dep_hour
+تران	B-Train
+الماضي_ساعه	B-Dep_hour
+
+
+أيه	B-Acceptance
+
+
+ثم	B-Existence_Req
+تران	B-Train
+إلى	B-Destination
+تونس	I-Destination
+الماضي_ساعه	B-Dep_hour
+
+
+عادي	B-Train_Type
+هذا	O
+
+
+ألي	B-Ticket_Type
+ورتور	I-Ticket_Type
+بير_بورقبه	B-Destination
+يعيشك	B-Politenesse
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+آ	O
+تونس	B-Destination
+
+
+وقتاه	B-Dep_Hour_Req
+
+
+ومبعد	B-Dep_hour
+
+
+باهي	B-Acceptance
+و	B-Coordination
+كارت	B-Ticket_Type
+نحب	B-Booking_Req
+زوز	B-Ticket_Numbers
+وحده	B-Ticket_Numbers
+كارت	B-Ticket_Type
+وحده	B-Ticket_Numbers
+بلاش	O
+في	B-Dep_hour
+الثلاثه	I-Dep_hour
+غير_درج	I-Dep_hour
+
+
+ليوم	B-Day
+
+
+لا	B-Rejection
+الثلاثه	B-Dep_hour
+غير_درج	I-Dep_hour
+
+
+عادي	B-Train_Type
+
+
+وقتاه	B-Arr_Hour_Req
+وصول	B-Arrival_Cpt
+
+
+نعم	B-Clarification_Req
+
+
+باهي	B-Acceptance
+كلو	B-Clarification_Req
+كنفور	B-Train_Type
+
+
+وفما	B-Existence_Req
+تسكره	B-Ticket
+
+
+سلام_عليكم	B-Begin_Greeting
+
+
+تونس	B-Destination
+برميير	B-Class
+
+
+أيه	B-Acceptance
+
